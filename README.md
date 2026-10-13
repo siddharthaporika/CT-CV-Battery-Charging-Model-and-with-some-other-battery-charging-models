@@ -123,12 +123,9 @@ Please add complete author, publication, year, DOI, or URL details when availabl
 
 The project presentation credits:
 
+- Siddhartha Porika
 - Ankit Verma
 - Midatana Dhileep
 - Pankaj Kumar
-- Siddhartha Porika
 - Sathvik Rathod
 
-## License
-
-No license information was identified in the supplied project archive. Add a `LICENSE` file before redistributing the repository if you want to specify reuse permissions.
